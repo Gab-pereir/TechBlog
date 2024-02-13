@@ -1,6 +1,6 @@
 # TechBlogs
 
-![TechBlogs](assets/public/image/readme-image.png)
+![TechBlogs](assets/public/image/readme-image.jpg)
 
 Este é um projeto front-end onde exercitei meus conhecimentos em HTML e CSS. O objetivo deste projeto é criar um blog com conteúdos sobre tecnologia e tendências do mundo tech.
 
